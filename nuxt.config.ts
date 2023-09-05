@@ -2,4 +2,7 @@
 export default defineNuxtConfig({
     devtools: { enabled: true },
     modules: ['@nuxthq/ui', 'nuxt-icon'],
+    app: {
+        baseURL: '/ga4_explorer/',
+    },
 });

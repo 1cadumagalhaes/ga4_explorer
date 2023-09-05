@@ -5,10 +5,7 @@
         <!--top-->
         <div class="text-gray-100 text-xl flex-initial">
             <div class="p-2.5 mt-1 flex flex-col items-center">
-                <img
-                    src="../assets/img/logo-ga4.png"
-                    alt="Google Analytics 4"
-                />
+                <img src="~/public/img/logo-ga4.png" alt="Google Analytics 4" />
                 <h1 class="font-bold text-gray-200 text-[15px] ml-3">
                     GA4 Explorer
                 </h1>
@@ -47,7 +44,7 @@
         <div class="flex flex-col items-center flex-initial">
             <a href="https://dp6.github.io">
                 <img
-                    src="../assets/img/logo-dp6.png"
+                    src="~/public/img/logo-dp6.png"
                     alt="Logo DP6"
                     style="height: 32px"
                 />
