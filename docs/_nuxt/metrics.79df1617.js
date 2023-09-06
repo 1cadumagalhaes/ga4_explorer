@@ -1,1 +1,0 @@
-import{_ as o}from"./Table.83c95774.js";import{_ as t,h as c,o as r}from"./entry.3bd48f92.js";const _={};function n(s,a){const e=o;return r(),c(e,{filter:"metric"})}const i=t(_,[["render",n]]);export{i as default};
