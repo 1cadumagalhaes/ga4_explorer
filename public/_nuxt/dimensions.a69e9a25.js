@@ -1,0 +1,1 @@
+import{_ as n}from"./Table.83c95774.js";import{_ as e,h as t,o as _}from"./entry.3bd48f92.js";const c={};function r(s,a){const o=n;return _(),t(o,{filter:"dimension"})}const f=e(c,[["render",r]]);export{f as default};
