@@ -3,22 +3,22 @@ const menu_items = [
     {
         title: 'Home',
         icon: 'mdi:home',
-        path: './',
+        path: '/',
     },
     {
         title: 'Dimensions',
         icon: 'mdi:axis-arrow-info',
-        path: './dimensions',
+        path: '/dimensions',
     },
     {
         title: 'Metrics',
         icon: 'mdi:target',
-        path: './metrics',
+        path: '/metrics',
     },
     {
         title: 'About',
         icon: 'mdi:information-slab-circle',
-        path: './about',
+        path: '/about',
     },
 ];
 </script>
